@@ -11,7 +11,7 @@ public class MapPlay {
 
         long time00 = System.nanoTime();
         List<String> list = new ArrayList<>();
-        list.add("anne");
+        list.add("annie");
         System.out.println("list is " + list);
         /*list.add(new Object());
         list.add(new Book());*/
