@@ -42,6 +42,8 @@ public class MapPlay {
 
         System.out.println("value is " + val);
         System.out.println("value is " + vald);
+        System.out.println("value3 is " + vald);
+
 
         long time01 = System.nanoTime();
 
