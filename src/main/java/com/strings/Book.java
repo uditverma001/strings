@@ -6,4 +6,5 @@ public class Book {
     public long countPages;
     public int year;
 
+    public String bindingType;
 }
