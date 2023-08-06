@@ -20,6 +20,7 @@ public class MapPlay {
         Map<String, String> map = new HashMap<>();
 
         map.put("india", "delhi");
+        
         map.put("usaa", "wash");
         map.put("uk", "london");
         map.put("germany", "berlin");
