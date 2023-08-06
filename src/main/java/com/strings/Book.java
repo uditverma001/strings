@@ -7,4 +7,5 @@ public class Book {
     public int year;
 
     public String bindingType;
+    public String index ;
 }
